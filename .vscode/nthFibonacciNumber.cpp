@@ -11,5 +11,5 @@ int main(){
         a = temp;
         count++;
     }
-    cout << b;
+    cout << "n th Fibonacci number is : - " << b;
 }
