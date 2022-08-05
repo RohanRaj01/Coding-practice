@@ -14,8 +14,8 @@
 
 - 🌱 I’m currently learning DSA with Java and other programming languages
 
-- 📫 How to connect:
-        email:- rohanraj3002@gamil.com
+- 📫 How to connect:<br>
+        email:- rohanraj3002@gamil.com<br>
         linkedin :- https://www.linkedin.com/in/rohan-raj-121915216
 
 - ⚡ Hobbies  :- Dance, Sleep, Food and Music🎵.
